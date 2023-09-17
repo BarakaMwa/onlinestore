@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2833fd3-531c-479c-a938-a9cf0925c9b0" name="Default Changelist" comment="about php added">
-      <change afterPath="$PROJECT_DIR$/db_connection.php" afterDir="false" />
+    <list default="true" id="f2833fd3-531c-479c-a938-a9cf0925c9b0" name="Default Changelist" comment="connection add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/db_connection.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694984706384</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="connection add">
+      <created>1694985504987</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694985504987</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +93,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FILES added" />
     <MESSAGE value="about php added" />
-    <option name="LAST_COMMIT_MESSAGE" value="about php added" />
+    <MESSAGE value="connection add" />
+    <option name="LAST_COMMIT_MESSAGE" value="connection add" />
   </component>
 </project>
