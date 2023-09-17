@@ -1,12 +1,14 @@
 <?php
 
 
-$servername = "u818699652_online_store";
-$username = "u818699652_online_dev";
-$password = "uU818699652_";
+//$servername = "localhost";
+$servername = "infyenterprise.com";
+$username = "u818699652_online_store";
+$password = "u818699652_Online_Store";
+$database = "u818699652_online_store";
 
 // Create connection
-$conn = mysqli_connect($servername, $username, $password);
+$conn = mysqli_connect($servername, $username, $password, $database);
 
 // Check connection
 if (!$conn) {
